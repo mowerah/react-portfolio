@@ -10,7 +10,7 @@ function Home() {
       <div className='about'>
         <h2> Hey there, welcome!</h2>
         <div className='prompt'>
-          <p>I'm a Frontend Developer. I build things for the web.</p>
+          <p>I'm a Software Developer. I like to build web and mobile applications.</p>
         <a href="https://github.com/mowerah"><GitHubIcon /></a>
         <a href="https://www.linkedin.com/in/mohamed-werah/"><LinkedInIcon /></a>
         <a href="mailto:mohamed.werah@gmail.com"><EmailIcon /></a>
@@ -21,20 +21,25 @@ function Home() {
         <h1>Skills</h1>
         <ol className='list'>
           <li className='item'>
+            <h2>Tools</h2>
+            <span>VS Code, Git, GitHub, Jest, Docker and Terraform
+            </span>
+          </li>
+          <li className='item'>
+            <h2>Mobile Development</h2>
+            <span>React Native, Android Studio and Xcode
+            </span>
+          </li>
+          <li className='item'>
             <h2>Front-End</h2>
             <span>
-            HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap
+            HTML5, CSS3, JavaScript, TypeScript, React and Bootstrap
             </span>
           </li>
           <li className='item'>
             <h2>Back-End</h2>
             <span>
             NodeJS, NPM and SQL
-            </span>
-          </li>
-          <li className='item'>
-            <h2>Tools</h2>
-            <span>VS Code, Git, GitHub and Jest
             </span>
           </li>
         </ol>
