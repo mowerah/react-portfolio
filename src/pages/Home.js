@@ -14,9 +14,9 @@ function Home() {
         <a href="https://github.com/mowerah"><GitHubIcon /></a>
         <a href="https://www.linkedin.com/in/mohamed-werah/"><LinkedInIcon /></a>
         <a href="mailto:mohamed.werah@gmail.com"><EmailIcon /></a>
-        
         </div>
       </div>
+      
       <div className='skills'>
         <h1>Skills</h1>
         <ol className='list'>
