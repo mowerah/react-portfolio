@@ -22,12 +22,12 @@ function Home() {
         <ol className='list'>
           <li className='item'>
             <h2>Tools</h2>
-            <span>VS Code, Git, GitHub, Jest, Docker and Terraform
+            <span>VS Code, Git, GitHub, Jest and Docker
             </span>
           </li>
           <li className='item'>
             <h2>Mobile Development</h2>
-            <span>React Native, Android Studio and Xcode
+            <span>React Native, Android Studio, Xcode and Maestro (Mobbile UI Testing)
             </span>
           </li>
           <li className='item'>

@@ -20,7 +20,7 @@ function Experience() {
         >
           <h3 className="vertical-timeline-element-title">
             {" "}
-            DevOps & Software Developer{" "}
+            Freelance Software Developer{" "}
           </h3>
           <p>LUUL SOLUTIONS LTD</p>
         </VerticalTimelineElement>
@@ -34,7 +34,7 @@ function Experience() {
             {" "}
             London Licensed Taxi Driver (Yellow Badge - Black Cab)
           </h3>
-          <p>SELFEMPLOYED</p>
+          <p>SELF-EMPLOYED</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
