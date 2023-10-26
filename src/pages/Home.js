@@ -27,7 +27,7 @@ function Home() {
           </li>
           <li className='item'>
             <h2>Mobile Development</h2>
-            <span>React Native, Android Studio, Xcode and Maestro (Mobbile UI Testing)
+            <span>React Native, Android Studio, Xcode and Maestro (Mobile UI Testing)
             </span>
           </li>
           <li className='item'>
