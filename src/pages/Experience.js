@@ -20,9 +20,9 @@ function Experience() {
         >
           <h3 className="vertical-timeline-element-title">
             {" "}
-            Freelance Software Developer{" "}
+            Luul Solutions Ltd{" "}
           </h3>
-          <p>LUUL SOLUTIONS LTD</p>
+          <p>Junior Software Developer (Freelance)</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
@@ -34,7 +34,16 @@ function Experience() {
             {" "}
             London Licensed Taxi Driver (Yellow Badge - Black Cab)
           </h3>
-          <p>SELF-EMPLOYED</p>
+          <p>Self-Employed</p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="Sep 2023 - Ongoing"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<SchoolIcon />}
+        >
+          <h3 className="vertical-timeline-element-title"> 5E Ltd</h3>
+          <p>Level 2 ICT Systems Support and Level 3 Cloud Computing</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
@@ -46,19 +55,7 @@ function Experience() {
             {" "}
             Fasttrack Technology Academy (FST)
           </h3>
-          <p>WEB DEVELOPMENT BOOTCAMP</p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2020 - 2022"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
-          icon={<SchoolIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            {" "}
-            London South Bank University (LSBU)
-          </h3>
-          <p>HNC - CIVIL ENGINEERING</p>
+          <p>Web Development Bootcamp</p>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
